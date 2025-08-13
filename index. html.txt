@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)file:///C:/Users/Satya/OneDrive/Desktop/srav's/task23.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Ideas</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d') no-repeat center center/cover;
+      margin: 0;
+      padding: 0;
+      color: #f4f4f4;
+    }
+    .container {
+      padding: 40px;
+      background-color: rgba(15, 32, 39, 0.9);
+      border-radius: 10px;
+      max-width: 1000px;
+      margin: 40px auto;
+      box-shadow: 0 0 20px rgba(0, 191, 255, 0.4);
+    }
+    h1 {
+      color: #00BFFF;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #87CEFA;
+      border-bottom: 1px solid #00BFFF;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    ul {
+      margin-left: 20px;
+      list-style-type: square;
+    }
+    li {
+      margin-bottom: 10px;
+      line-height: 1.6;
+    }
+    @media screen and (max-width: 600px) {
+      .container {
+        padding: 20px;
+        margin: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Project Ideas for Placement Preparation</h1><h2>Beginner Level</h2>
+<ul>
+  <li>To-Do List Web App (HTML, CSS, JavaScript)</li>
+  <li>Student Result Management System (C++/Java)</li>
+  <li>Personal Portfolio Website (HTML, CSS)</li>
+  <li>Basic Calculator (JavaScript or Python GUI)</li>
+</ul>
+
+<h2>Intermediate Level</h2>
+<ul>
+  <li>Online Voting System (PHP + MySQL)</li>
+  <li>Library Management System (Python/Django)</li>
+  <li>Resume Builder Web App (MERN Stack)</li>
+  <li>Weather App using API Integration (JavaScript)</li>
+</ul>
+
+<h2>Advanced Level</h2>
+<ul>
+  <li>Campus Placement Portal (Full Stack)</li>
+  <li>Online Learning Platform (React + Node.js)</li>
+  <li>Chatbot using NLP (Python + ML)</li>
+  <li>Real-Time Chat Application (Socket.io)</li>
+</ul>
+
+<h2>Tips for Selecting Projects</h2>
+<ul>
+  <li>Pick projects that demonstrate your skills relevant to the job.</li>
+  <li>Document your code and host it on GitHub.</li>
+  <li>Include a project summary and your role in the resume.</li>
+  <li>Focus on solving real-life problems.</li>
+</ul>
+
+  </div>
+
+</body></html>
